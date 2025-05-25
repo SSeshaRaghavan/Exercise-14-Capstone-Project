@@ -1,8 +1,8 @@
 # Exercise-14-Capstone-Project
 # Capstone Project - Personal Finance Categorization and Summary Automation
 ~~~
-Name : M.JOHN PALL
-Reg. No : 212224040140 
+Name : LALENTIKA TWISHA M
+Reg. No : 212224220052
 ~~~
 
 ## Aim
