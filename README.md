@@ -1,9 +1,9 @@
 # Exercise-14-Capstone-Project
 # Capstone Project - Personal Finance Categorization and Summary Automation
-~~~
-Name : LALENTIKA TWISHA M
-Reg. No : 212224220052
-~~~
+
+Name : S Sesha Raghavan
+Reg. No : 212224040302
+
 
 ## Aim
 To automate the process of reading personal transaction data from a CSV file, categorizing expenses into various groups (Food, Transport, Bills, Others), and generating a summary report with total amounts and current date in an Excel file using UiPath.
